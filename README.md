@@ -20,7 +20,9 @@ The dashboard is divided into **three main tabs:**
 ## 📂 Project Files
 
 - **Dashboard PDF:**  
-  [View Dashboard (PDF)](dashboards/slack_survey_dashboard.pdf)
+  [View Dashboard (PDF)](dashboards/Slack%20Survey%20Dashboard.pdf)
+
+
 
 - **Dataset (External Link):**  
   👉 [Download Slack Survey Normalized Dataset (CSV)](https://drive.google.com/file/d/1VnaXHfSkUtkCWYCja8Xs5lUvofgKuyN-/view?usp=drive_link)
