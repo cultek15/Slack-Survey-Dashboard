@@ -51,5 +51,7 @@ slack-survey-dashboard/
 - GitHub for version control
 
 ## 📦 Dataset
-The dataset used in this project is provided in the `datasets` folder.
-The dataset used in this project is provided in the `datasets` folder.
+The dataset used for this dashboard is too large to upload directly to GitHub.  
+You can download it here:
+
+[Download Slack Survey NormalizedDataset (CSV)] (https://drive.google.com/file/d/1VnaXHfSkUtkCWYCja8Xs5lUvofgKuyN-/view?usp=drive_link)
